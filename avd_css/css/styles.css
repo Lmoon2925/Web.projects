@@ -30,8 +30,9 @@ border-radius: 20px;
 
 header {
     text-align: center;
-    padding: 40px;
-    border-bottom:2px solid #A64833;
+    padding: 0;
+    border-top: none;
+    margin-bottom: 0;
 
 }
 
@@ -75,13 +76,13 @@ nav li a:hover {
 main h2 {
     text-align: center;
     color: #A64833;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 main h3 {
     text-align: center;
     color: #A64833;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 h2 {
@@ -107,7 +108,7 @@ section {
 
 aside {
     width: 25%;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 section img {
